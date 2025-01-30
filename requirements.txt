@@ -1,5 +1,3 @@
 streamlit
 unstructured
 langchain_groq
-tempfile
-reportlab
