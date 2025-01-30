@@ -2,3 +2,4 @@ streamlit
 unstructured
 langchain_groq
 reportlab
+pdfminer
