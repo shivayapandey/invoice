@@ -2,3 +2,4 @@ streamlit==1.38.0
 unstructured[pdf]
 langchain-groq==0.1.5
 reportlab==4.2.5
+opencv-python-headless>=4.8.0 
