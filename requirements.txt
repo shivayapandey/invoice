@@ -1,8 +1,4 @@
 streamlit
-unstructured
+unstructured[pdf]
 langchain_groq
 reportlab
-pdfminer.six==20220524
-pi_heif
-unstructured_inference
-"unstructured[pdf]"
